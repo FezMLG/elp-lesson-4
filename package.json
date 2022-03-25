@@ -1,0 +1,19 @@
+{
+  "name": "elp-lesson-4",
+  "version": "1.0.0",
+  "description": "Did you ever hear the Tragedy of Darth Plagueis the Wise?",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FezMLG/elp-lesson-4.git"
+  },
+  "author": "FezMLG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FezMLG/elp-lesson-4/issues"
+  },
+  "homepage": "https://github.com/FezMLG/elp-lesson-4#readme"
+}
